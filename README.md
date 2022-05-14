@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vidusha</h1>
-<h2 align="center">A Software Developer from Sri Lanka</h3>
+<h2 align="center">A Software Enginner from Sri Lanka</h3>
 
 - 🌱 I’m currently learning HTML,CSS,Hibernate and Java script
 - 💬 Ask me about Java
