@@ -4,7 +4,7 @@
 <h2 align="center">A Software Enginner from Sri Lanka</h3>
 
 - 🌱 I’m currently learning HTML,CSS,Hibernate and Java script
-- 💬 Ask me about JAVA , HTML , CSS , JS , JAVAEE 
+- 💬 Ask me about JAVA , HTML , CSS , JS , JAVA EE 
 - 📫 How to reach me: vidusha7890@gmail.com
 - 😄 Pronouns: joke 
 
