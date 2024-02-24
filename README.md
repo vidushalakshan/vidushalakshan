@@ -1,33 +1,50 @@
-
-
-<h1 align="center">Hi 👋, I'm Vidusha</h1>
-<h2 align="center">A Software Enginner from Sri Lanka</h3>
-
-- 📫 How to reach me: vidusha7890@gmail.com
-- 😄 Pronouns: joke 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/vidusha lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidusha lakshan" height="30" width="40" /></a>
-<a href="https://instagram.com/vidusha_lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidusha_lakshan" height="30" width="40" /></a>
+<!-- Add an animated waving hand GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Waving hand" width="80" height="80">
 </p>
 
-<h1 align="center">Hi 👋, I'm Vidusha</h1>
-<h3 align="center">A developer from Sri Lanka</h3>
+<h1 align="center">Hi there, I'm Vidusha! 👋</h1>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidushalakshan" alt="vidushalakshan" /></a> </p>
+<p align="center"> 
+  📫 You can reach me at: <a href="mailto:vidusha7890@gmail.com">vidusha7890@gmail.com</a><br>
+  😄 Pronouns: Joke
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://facebook.com/vidusha.lakshan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidusha lakshan" height="30" width="40" /></a>
+  <a href="https://instagram.com/vidusha_lakshan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidusha_lakshan" height="30" width="40" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidushalakshan&show_icons=true&locale=en&layout=compact" alt="vidushalakshan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidushalakshan&show_icons=true&locale=en" alt="vidushalakshan" /></p>
+<!-- Add an animated trophy animation -->
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=vidushalakshan&theme=dracula&column=7&margin-w=15" alt="vidushalakshan's trophies" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidushalakshan&" alt="vidushalakshan" /></p>
+---
 
+### 🌟 About Me:
 
+Hey there! I'm Vidusha, a driven and creative software engineer based in Sri Lanka. With a strong passion for coding and problem-solving, I enjoy building innovative solutions that make a positive impact on people's lives. Whether it's crafting elegant front-end designs or architecting robust back-end systems, I thrive on turning ideas into reality through clean and efficient code.
 
+### 💼 Experience:
 
+I have extensive experience working with various technologies, including:
 
+- **Front-end:** HTML5, CSS3, JavaScript, React.js + Vite, Tailwind CSS
+- **Back-end:** Java, Node.js
+- **Database:** MySQL, MongoDB
+- **Other:** Bootstrap, Git
 
+### 🚀 Projects:
+
+Feel free to check out my repositories for more details and code samples!
+
+### 📫 Let's Connect:
+
+I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email. I'd love to hear from you!
+
+---
