@@ -34,10 +34,10 @@ Hey there! I'm Vidusha, a driven and creative software engineer based in Sri Lan
 
 I have extensive experience working with various technologies, including:
 
-- **Front-end:** HTML5, CSS3, JavaScript, React.js + Vite, Tailwind CSS
+- **Front-end:** HTML5, CSS3, JavaScript, React.js + Vite, Tailwind CSS, Bootstrap
 - **Back-end:** Java, Node.js
 - **Database:** MySQL, MongoDB
-- **Other:** Bootstrap, Git
+- **Other:**  Git
 
 ### 🚀 Projects:
 
