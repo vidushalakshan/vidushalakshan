@@ -13,11 +13,6 @@
 
 ---
 
-<!-- Add an animated trophy animation -->
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=vidushalakshan&theme=dracula&column=7&margin-w=15" alt="vidushalakshan's trophies" />
-</p>
-
 ---
 
 ### 🌟 About Me:
