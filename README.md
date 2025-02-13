@@ -1,8 +1,4 @@
 <!-- Add an animated waving hand GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Waving hand" width="80" height="80">
-</p>
-
 <h1 align="center">Hi there, I'm Vidusha! 👋</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
@@ -10,8 +6,6 @@
   📫 You can reach me at: <a href="mailto:vidusha7890@gmail.com">vidusha7890@gmail.com</a><br>
   😄 Pronouns: Joke
 </p>
-
----
 
 ---
 
