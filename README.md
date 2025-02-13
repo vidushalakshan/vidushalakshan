@@ -4,7 +4,6 @@
 
 <p align="center"> 
   📫 You can reach me at: <a href="mailto:vidusha7890@gmail.com">vidusha7890@gmail.com</a><br>
-  😄 Pronouns: Joke
 </p>
 
 ---
